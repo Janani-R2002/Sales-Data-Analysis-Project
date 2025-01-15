@@ -7,7 +7,8 @@ The goal of this project is to analyze sales data and create an interactive dash
 
 ### Data sources:
 
-The data for this Power BI dashboard is sourced from CSV file containing sales data of a GlobalSuperstores for five years, from 2011 to 2015.
+- The data for this Power BI dashboard is sourced from CSV file containing sales data of a GlobalSuperstores for five years, from 2011 to 2015.
+- Dataset Link: https://github.com/Janani-R2002/Sales-Data-Analysis-Project/blob/main/Sales%20Dataset.csv
 
 ### Tools:
 
